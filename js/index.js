@@ -1,2 +1,2 @@
-let url = "https://bnc.lt/contactlessdining?deeplink_url=https%3A%2F%2Fzoma.to%2Fqr%2FABCDEFGH";
+let url = "https://bnc.lt/contactlessdining";
 window.location.replace(url);
